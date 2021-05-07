@@ -1,0 +1,30 @@
+/*
+ * Theme Name: jqstartertheme
+ */
+
+.content-in {
+    float: right;
+    width: 100%;
+    margin: 0 0 0 -25%;
+}
+.mainsite {
+    margin: 0 0 0 -25%;
+}
+.site-content .widget in {
+    float: left;
+    overflow: hidden;
+    width: 25%;
+}
+.site-footer {
+    clear: both;
+    width: 100%;
+}
+
+.no-sidebar .content-in {
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+.no-sidebar .mainsite {
+    margin-right: 0;
+}
